@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>웹 페이지 제목11dfgsd</title>
+    <title>웹 페이지 제목</title>
 </head>
 <body>
 
