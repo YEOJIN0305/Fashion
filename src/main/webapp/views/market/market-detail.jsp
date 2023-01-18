@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>웹rr 페이지 제목</title>
+    <title>웹rrd 페이지 제목</title>
 </head>
 <body>
 
